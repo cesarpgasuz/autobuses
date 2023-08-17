@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "camiones",
+  "info": {
+    "singularName": "camione",
+    "pluralName": "camiones",
+    "displayName": "Camiones"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    },
+    "salida": {
+      "type": "string"
+    }
+  }
+}
